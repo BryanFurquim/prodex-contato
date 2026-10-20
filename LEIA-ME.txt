@@ -1,0 +1,25 @@
+PRODEX — Página de contatos para QR Code
+
+CONTEÚDO
+- index.html: página completa (HTML, CSS e JavaScript no mesmo arquivo)
+- assets/logo-oficial.png: símbolo oficial da PRODEX enviado pelo cliente
+- assets/background-desktop.png: background para desktop fornecido
+- assets/background-mobile.png: background para mobile fornecido
+- assets/referencia-visual.png: referência visual original (não usada como fundo)
+
+IDENTIDADE VISUAL
+A página utiliza o arquivo original logo-oficial.png para exibir o símbolo da PRODEX. Não é desenhado um símbolo substituto em CSS.
+
+COMO TESTAR
+1. Extraia a pasta/ZIP.
+2. Abra index.html no navegador para conferir o visual. Links externos funcionam; o botão de compartilhar funciona melhor quando publicado em HTTPS.
+3. Para usar no QR Code, publique a pasta em uma hospedagem estática ou no seu domínio. Recomenda-se publicar em https://prodextech.com.br/contato/ e confirmar que abre publicamente.
+4. Gere o QR Code real somente depois de confirmar a URL final.
+
+CONTATOS CONFIGURADOS
+WhatsApp: +55 19 99596-9951
+E-mail: prodexxtech@gmail.com
+Site: https://prodextech.com.br
+
+NOTA
+O Instagram foi omitido porque o perfil oficial não foi informado. A página não inclui QR Code; o QR Code deverá apontar para a URL publicada desta página.
